@@ -1,0 +1,1 @@
+export const haha = (a: number): number => a ** a

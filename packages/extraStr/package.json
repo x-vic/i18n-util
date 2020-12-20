@@ -1,0 +1,25 @@
+{
+  "name": "@ignorance/extraStr",
+  "version": "1.0.0",
+  "description": "@ignorance/extraStr",
+  "main": "index.js",
+  "module": "lib/extraStr.esm-bundler.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "types": "lib/extraStr.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignorance"
+  },
+  "keywords": [
+    "ignorance"
+  ],
+  "author": "Vic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yesixuan/ignorance/issues"
+  },
+  "homepage": "https://github.com/yesixuan/ignorance/tree/dev/packages/extraStr#readme"
+}
