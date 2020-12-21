@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "bootstrap": "node scripts/bootstrap.js",
-    "build": "node scripts/build.js"
+    "build": "node scripts/build.js -t -s",
+    "test": "jest --runInBand"
   },
   "workspaces": [
     "packages/*"
