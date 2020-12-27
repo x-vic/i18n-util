@@ -17,13 +17,13 @@ module.exports = {
     '/node_modules/'
   ],
   moduleFileExtensions: ['ts', 'tsx', 'js', 'json'],
-  coverageThreshold: { // 配置测试最低阈值
-    global: {
-      branches: 60,
-      functions: 80,
-      lines: 80,
-      statements: 80
-    }
-  },
+  // coverageThreshold: { // 配置测试最低阈值
+  //   global: {
+  //     branches: 60,
+  //     functions: 80,
+  //     lines: 80,
+  //     statements: 80
+  //   }
+  // },
   rootDir: __dirname
 }

@@ -1,14 +1,14 @@
 {
-  "name": "@ignorance/extraStr",
+  "name": "@ignorance/data-struct",
   "version": "1.0.0",
-  "description": "@ignorance/extraStr",
+  "description": "@ignorance/data-struct",
   "main": "index.js",
-  "module": "lib/extraStr.esm-bundler.js",
+  "module": "lib/data-struct.esm-bundler.js",
   "files": [
     "index.js",
     "lib"
   ],
-  "types": "lib/extraStr.d.ts",
+  "types": "lib/data-struct.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ignorance"
@@ -21,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/yesixuan/ignorance/issues"
   },
-  "homepage": "https://github.com/yesixuan/ignorance/tree/dev/packages/extraStr#readme"
+  "homepage": "https://github.com/yesixuan/ignorance/tree/dev/packages/data-struct#readme"
 }
