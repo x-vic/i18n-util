@@ -5,3 +5,4 @@ explorations
 */**/lib
 coverage
 *.log
+dist
